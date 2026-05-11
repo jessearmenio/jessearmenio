@@ -15,3 +15,4 @@ I’ve led and contributed to large-scale initiatives involving Yardi ecosystems
 * 🎓 B.S.B.A. in Management Information Systems from Oklahoma State University. <br>
 * ⚡ Strong believer that good analytics should improve decision-making, not just report outcomes. <br>
 
+![Jesse's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JesseArmenio&show_icons=true&theme=tokyonight)
