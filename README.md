@@ -4,7 +4,7 @@ I am a Senior IT Business Analyst focused on enterprise systems, analytics engin
 
 I’ve led and contributed to large-scale initiatives involving Yardi ecosystems, Power BI reporting architecture, SQL-based analytics, enterprise reporting migrations, and real-time data visualization platforms across commercial real estate, senior living, and business intelligence environments.
 
-🏢 Currently working in enterprise real estate technology, analytics, and operational systems modernization.
+🏢 Currently working in enterprise real estate technology, analytics, and operational systems modernization. <br>
 📊 In my free-time, I enjoy building advanced market intelligence dashboards focused on macroeconomics, options flow, volatility, breadth, and real-time financial analytics.
 🧠 Passionate about the intersection of business strategy, analytics engineering, UI/UX, and decision intelligence.
 ⚙️ Working heavily with Power BI, SQL, Snowflake, Yardi, Microsoft Fabric, APIs, Node.js, and enterprise automation workflows.
