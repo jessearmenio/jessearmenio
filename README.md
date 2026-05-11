@@ -14,3 +14,4 @@ I’ve led and contributed to large-scale initiatives involving Yardi ecosystems
 💬 Ask me about business intelligence, Yardi ecosystems, Power BI, enterprise reporting, data automation, financial dashboards, and systems integration.
 🎓 B.S.B.A. in Management Information Systems from Oklahoma State University.
 ⚡ Strong believer that good analytics should improve decision-making, not just report outcomes.
+
